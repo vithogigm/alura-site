@@ -4,7 +4,7 @@ body{
 }
 
 .imagens{
- max-width: 1080px;
- max-height: 1080px;
+    display: flex;
+    justify-content: center;
 }
 
