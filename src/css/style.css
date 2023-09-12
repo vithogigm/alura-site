@@ -1,13 +1,17 @@
 body {
-    max-width: 500px;
+    max-width: 1200px;
     margin: 0, auto;
 }
 
-.imagens .ativado {
+.imagens.ativado {
     display: flex;
     justify-content: center;
 }
 
 .imagens {
 visibility: hidden;
+}
+
+h1{
+    font-size: 500;
 }
