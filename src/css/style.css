@@ -3,7 +3,11 @@ body {
     margin: 0, auto;
 }
 
-.imagens .at {
+.imagens .ativado {
     display: flex;
     justify-content: center;
+}
+
+.imagens {
+visibility: hidden;
 }
