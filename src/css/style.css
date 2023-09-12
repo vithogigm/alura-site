@@ -1,8 +1,9 @@
 body {
+    max-width: 500px;
     margin: 0, auto;
 }
 
-.imagens {
+.imagens .at {
     display: flex;
     justify-content: center;
 }
