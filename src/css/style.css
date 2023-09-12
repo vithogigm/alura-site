@@ -6,10 +6,6 @@ body {
 .imagens {
     display: flex;
     justify-content: center;
-}
-
-.imagens.menu_img{
     display: flex;
     justify-content: center;
 }
-
