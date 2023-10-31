@@ -55,12 +55,12 @@
     
     body {
         background: rgb(63, 94, 251);
-        background: orange;
+        background: rgb(255, 193, 79);
     }
     
     
     .texto {
-    background-color: yellow;
+    background-color: rgb(255, 192, 55);
     font-size: 35px;
     text-align: center;
     }
