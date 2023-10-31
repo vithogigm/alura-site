@@ -81,6 +81,7 @@
         align-items: center;
     }
 
-    .{
-
+    .item-secoes{
+        display: flex;
+        border: 1px dotted rgb(255, 146, 44);
     }
