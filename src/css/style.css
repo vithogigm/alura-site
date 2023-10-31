@@ -84,4 +84,6 @@
     .item-secoes{
         display: flex;
         border: 1px dotted rgb(255, 146, 44);
+        width: 15%;
+        height: 15%;
     }
