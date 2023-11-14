@@ -46,7 +46,7 @@
       flex-direction: row;
       flex-wrap: wrap;
       justify-content: center;
-      background-color: #312d2d;
+      background-color: orangered;
       padding:60px 0;
  
   }
@@ -54,7 +54,7 @@
   .formulario {
  
       width: 700px;
-      background: #312d2d;
+      background: orangered;
       padding: 60px 5%;
       text-align: center;
  
