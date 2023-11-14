@@ -112,3 +112,10 @@
         background-image: url(https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
         background-size: cover;
     }
+
+    .item-secoes:hover{
+        background-color: #00000000;
+        color: white;
+        text-shadow: black 2px 2px 2px;
+        transition: 0.5s;
+    }
