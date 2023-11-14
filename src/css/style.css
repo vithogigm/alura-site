@@ -79,6 +79,7 @@
         display: flex;
         justify-content: space-evenly;
         align-items: center;
+        flex-wrap: wrap;
     }
 
     .item-secoes{
@@ -86,4 +87,7 @@
         border: 1px dotted rgb(255, 146, 44);
         width: 15%;
         height: 290px;
+        justify-content: center;
+        align-items: flex-start;
+        color: orangered;
     }
