@@ -85,7 +85,7 @@
     .item-secoes{
         display: flex;
         border: 1px dotted rgb(255, 146, 44);
-        width: 30%;
+        width: 35%;
         height: 290px;
         justify-content: center;
         align-items: flex-start;
@@ -94,5 +94,6 @@
         font-family: Helvetica, Arial, sans-serif;
         text-transform: uppercase;
         padding-top: 2%;
-        border-radius: 20px;
+        border-radius: 30px;
+        border: solid;
     }
