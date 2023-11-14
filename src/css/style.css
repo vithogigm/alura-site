@@ -85,7 +85,7 @@
     .item-secoes{
         display: flex;
         border: 1px dotted rgb(255, 146, 44);
-        width: 15%;
+        width: 30%;
         height: 290px;
         justify-content: center;
         align-items: flex-start;
