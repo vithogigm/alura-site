@@ -115,7 +115,7 @@
 
     .item-secoes:hover{
         background-color: #00000000;
-        color: white;
+        color: rgb(173, 7, 7);
         text-shadow: black 2px 2px 2px;
         transition: 0.5s;
     }
