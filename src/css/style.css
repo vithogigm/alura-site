@@ -95,5 +95,5 @@
         text-transform: uppercase;
         padding-top: 2%;
         border-radius: 30px;
-        border: solid;
+        box-shadow: 5px 5px #000000;
     }
